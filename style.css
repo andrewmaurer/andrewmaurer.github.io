@@ -1,0 +1,33 @@
+head {
+
+}
+
+body {
+	background-color:honeydew;
+	margin:25px;
+	}
+
+h1 { 	color:blue;
+	text-align:center;
+	}
+
+h2 { color:royalblue}
+
+h3 { color:cornflowerblue}
+
+#nav { 
+		text-align:center;
+	}
+
+#nav li { 	color:white;
+		display:inline;
+		margin-right:15px;
+	}
+
+span.reverse {
+  unicode-bidi: bidi-override;
+  direction: rtl;
+}
+
+br { 	display: block;
+	margin: 10px 0;}
